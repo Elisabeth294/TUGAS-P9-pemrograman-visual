@@ -1,0 +1,26 @@
+﻿@model Produk
+@{
+    ViewData["Title"] = "Hapus Produk";
+}
+
+<h2>Hapus Produk</h2>
+
+<div class="alert alert-danger">
+    <p>Apakah Anda yakin ingin menghapus produk berikut?</p>
+</div>
+
+<div class="mb-3">
+    <dl class="row">
+        <dt class="col-sm-2">Nama</dt>
+        <dd class="col-sm-10">@Model.Nama</dd>
+
+        <dt class="col-sm-2">Harga</dt>
+        <dd class="col-sm-10">Rp @Model.Harga.ToString("N0")</dd>
+    </dl>
+</div>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Hapus</button>
+    <a asp-action="Index" class="btn btn-secondary">Batal</a>
+</form>

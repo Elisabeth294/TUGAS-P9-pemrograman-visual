@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\WarkopKasir\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3078853C-814F-4993-9E10-1F52E3FEA704}|WarkopKasir\\WarkopKasir.csproj|c:\\users\\administrator\\source\\repos\\warkopkasir\\warkopkasir\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3078853C-814F-4993-9E10-1F52E3FEA704}|WarkopKasir\\WarkopKasir.csproj|solutionrelative:warkopkasir\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3078853C-814F-4993-9E10-1F52E3FEA704}|WarkopKasir\\WarkopKasir.csproj|c:\\users\\administrator\\source\\repos\\warkopkasir\\warkopkasir\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3078853C-814F-4993-9E10-1F52E3FEA704}|WarkopKasir\\WarkopKasir.csproj|solutionrelative:warkopkasir\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3078853C-814F-4993-9E10-1F52E3FEA704}|WarkopKasir\\WarkopKasir.csproj|c:\\users\\administrator\\source\\repos\\warkopkasir\\warkopkasir\\controllers\\produkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3078853C-814F-4993-9E10-1F52E3FEA704}|WarkopKasir\\WarkopKasir.csproj|solutionrelative:warkopkasir\\controllers\\produkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3078853C-814F-4993-9E10-1F52E3FEA704}|WarkopKasir\\WarkopKasir.csproj|c:\\users\\administrator\\source\\repos\\warkopkasir\\warkopkasir\\models\\transaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3078853C-814F-4993-9E10-1F52E3FEA704}|WarkopKasir\\WarkopKasir.csproj|solutionrelative:warkopkasir\\models\\transaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3078853C-814F-4993-9E10-1F52E3FEA704}|WarkopKasir\\WarkopKasir.csproj|c:\\users\\administrator\\source\\repos\\warkopkasir\\warkopkasir\\models\\produk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3078853C-814F-4993-9E10-1F52E3FEA704}|WarkopKasir\\WarkopKasir.csproj|solutionrelative:warkopkasir\\models\\produk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3078853C-814F-4993-9E10-1F52E3FEA704}|WarkopKasir\\WarkopKasir.csproj|c:\\users\\administrator\\source\\repos\\warkopkasir\\warkopkasir\\warkopkasir.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3078853C-814F-4993-9E10-1F52E3FEA704}|WarkopKasir\\WarkopKasir.csproj|solutionrelative:warkopkasir\\warkopkasir.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3078853C-814F-4993-9E10-1F52E3FEA704}|WarkopKasir\\WarkopKasir.csproj|c:\\users\\administrator\\source\\repos\\warkopkasir\\warkopkasir\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3078853C-814F-4993-9E10-1F52E3FEA704}|WarkopKasir\\WarkopKasir.csproj|solutionrelative:warkopkasir\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3078853C-814F-4993-9E10-1F52E3FEA704}|WarkopKasir\\WarkopKasir.csproj|c:\\users\\administrator\\source\\repos\\warkopkasir\\warkopkasir\\views\\produk\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3078853C-814F-4993-9E10-1F52E3FEA704}|WarkopKasir\\WarkopKasir.csproj|solutionrelative:warkopkasir\\views\\produk\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3078853C-814F-4993-9E10-1F52E3FEA704}|WarkopKasir\\WarkopKasir.csproj|c:\\users\\administrator\\source\\repos\\warkopkasir\\warkopkasir\\views\\produk\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3078853C-814F-4993-9E10-1F52E3FEA704}|WarkopKasir\\WarkopKasir.csproj|solutionrelative:warkopkasir\\views\\produk\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3078853C-814F-4993-9E10-1F52E3FEA704}|WarkopKasir\\WarkopKasir.csproj|c:\\users\\administrator\\source\\repos\\warkopkasir\\warkopkasir\\views\\produk\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3078853C-814F-4993-9E10-1F52E3FEA704}|WarkopKasir\\WarkopKasir.csproj|solutionrelative:warkopkasir\\views\\produk\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3078853C-814F-4993-9E10-1F52E3FEA704}|WarkopKasir\\WarkopKasir.csproj|c:\\users\\administrator\\source\\repos\\warkopkasir\\warkopkasir\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3078853C-814F-4993-9E10-1F52E3FEA704}|WarkopKasir\\WarkopKasir.csproj|solutionrelative:warkopkasir\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3078853C-814F-4993-9E10-1F52E3FEA704}|WarkopKasir\\WarkopKasir.csproj|c:\\users\\administrator\\source\\repos\\warkopkasir\\warkopkasir\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3078853C-814F-4993-9E10-1F52E3FEA704}|WarkopKasir\\WarkopKasir.csproj|solutionrelative:warkopkasir\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3078853C-814F-4993-9E10-1F52E3FEA704}|WarkopKasir\\WarkopKasir.csproj|c:\\users\\administrator\\source\\repos\\warkopkasir\\warkopkasir\\views\\transaksi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3078853C-814F-4993-9E10-1F52E3FEA704}|WarkopKasir\\WarkopKasir.csproj|solutionrelative:warkopkasir\\views\\transaksi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3078853C-814F-4993-9E10-1F52E3FEA704}|WarkopKasir\\WarkopKasir.csproj|c:\\users\\administrator\\source\\repos\\warkopkasir\\warkopkasir\\models\\transaksiitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3078853C-814F-4993-9E10-1F52E3FEA704}|WarkopKasir\\WarkopKasir.csproj|solutionrelative:warkopkasir\\models\\transaksiitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3078853C-814F-4993-9E10-1F52E3FEA704}|WarkopKasir\\WarkopKasir.csproj|c:\\users\\administrator\\source\\repos\\warkopkasir\\warkopkasir\\views\\produk\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3078853C-814F-4993-9E10-1F52E3FEA704}|WarkopKasir\\WarkopKasir.csproj|solutionrelative:warkopkasir\\views\\produk\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WarkopKasir\\WarkopKasir\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WarkopKasir\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WarkopKasir\\WarkopKasir\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "WarkopKasir\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T16:22:08.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WarkopKasir\\WarkopKasir\\Views\\Produk\\index.cshtml",
+              "RelativeDocumentMoniker": "WarkopKasir\\Views\\Produk\\index.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WarkopKasir\\WarkopKasir\\Views\\Produk\\index.cshtml",
+              "RelativeToolTip": "WarkopKasir\\Views\\Produk\\index.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T14:46:18.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WarkopKasir\\WarkopKasir\\Views\\Transaksi\\index.cshtml",
+              "RelativeDocumentMoniker": "WarkopKasir\\Views\\Transaksi\\index.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WarkopKasir\\WarkopKasir\\Views\\Transaksi\\index.cshtml",
+              "RelativeToolTip": "WarkopKasir\\Views\\Transaksi\\index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T14:53:47.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WarkopKasir\\WarkopKasir\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WarkopKasir\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WarkopKasir\\WarkopKasir\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "WarkopKasir\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwAoAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T14:38:30.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WarkopKasir",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WarkopKasir\\WarkopKasir\\WarkopKasir.csproj",
+              "RelativeDocumentMoniker": "WarkopKasir\\WarkopKasir.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WarkopKasir\\WarkopKasir\\WarkopKasir.csproj",
+              "RelativeToolTip": "WarkopKasir\\WarkopKasir.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-26T15:57:13.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WarkopKasir\\WarkopKasir\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WarkopKasir\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WarkopKasir\\WarkopKasir\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WarkopKasir\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwBkAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T16:11:44.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProdukController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WarkopKasir\\WarkopKasir\\Controllers\\ProdukController.cs",
+              "RelativeDocumentMoniker": "WarkopKasir\\Controllers\\ProdukController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WarkopKasir\\WarkopKasir\\Controllers\\ProdukController.cs",
+              "RelativeToolTip": "WarkopKasir\\Controllers\\ProdukController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T14:30:27.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Produk.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WarkopKasir\\WarkopKasir\\Models\\Produk.cs",
+              "RelativeDocumentMoniker": "WarkopKasir\\Models\\Produk.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WarkopKasir\\WarkopKasir\\Models\\Produk.cs",
+              "RelativeToolTip": "WarkopKasir\\Models\\Produk.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T14:32:03.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Transaksi.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WarkopKasir\\WarkopKasir\\Models\\Transaksi.cs",
+              "RelativeDocumentMoniker": "WarkopKasir\\Models\\Transaksi.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WarkopKasir\\WarkopKasir\\Models\\Transaksi.cs",
+              "RelativeToolTip": "WarkopKasir\\Models\\Transaksi.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T14:44:25.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WarkopKasir\\WarkopKasir\\Views\\Produk\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WarkopKasir\\Views\\Produk\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WarkopKasir\\WarkopKasir\\Views\\Produk\\Delete.cshtml",
+              "RelativeToolTip": "WarkopKasir\\Views\\Produk\\Delete.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T14:49:25.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WarkopKasir\\WarkopKasir\\Views\\Produk\\Create.cshtml",
+              "RelativeDocumentMoniker": "WarkopKasir\\Views\\Produk\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WarkopKasir\\WarkopKasir\\Views\\Produk\\Create.cshtml",
+              "RelativeToolTip": "WarkopKasir\\Views\\Produk\\Create.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T14:47:32.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WarkopKasir\\WarkopKasir\\appsettings.json",
+              "RelativeDocumentMoniker": "WarkopKasir\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WarkopKasir\\WarkopKasir\\appsettings.json",
+              "RelativeToolTip": "WarkopKasir\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-26T15:54:27.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TransaksiItem.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WarkopKasir\\WarkopKasir\\Models\\TransaksiItem.cs",
+              "RelativeDocumentMoniker": "WarkopKasir\\Models\\TransaksiItem.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WarkopKasir\\WarkopKasir\\Models\\TransaksiItem.cs",
+              "RelativeToolTip": "WarkopKasir\\Models\\TransaksiItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T14:54:34.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WarkopKasir\\WarkopKasir\\Program.cs",
+              "RelativeDocumentMoniker": "WarkopKasir\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WarkopKasir\\WarkopKasir\\Program.cs",
+              "RelativeToolTip": "WarkopKasir\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T14:34:19.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WarkopKasir\\WarkopKasir\\Views\\Produk\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WarkopKasir\\Views\\Produk\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WarkopKasir\\WarkopKasir\\Views\\Produk\\Edit.cshtml",
+              "RelativeToolTip": "WarkopKasir\\Views\\Produk\\Edit.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T14:47:49.776Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+﻿@model IEnumerable<WarkopKasir.Models.Transaksi>
+
+@{
+    ViewData["Title"] = "Riwayat Transaksi";
+}
+
+<h2>Riwayat Transaksi</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Tanggal</th>
+            <th>Total Item</th>
+            <th>Total Harga</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var transaksi in Model)
+        {
+            <tr>
+                <td>@transaksi.Tanggal.ToString("dd/MM/yyyy HH:mm")</td>
+                <td>@transaksi.Items.Sum(i => i.Jumlah)</td>
+                <td>
+                    Rp @transaksi.Items.Sum(i => i.Jumlah * i.Produk.Harga).ToString("N0")
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
